@@ -53,17 +53,17 @@ This project is a static web application and requires no special installation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-project-name.git
+    git clone https://github.com/dbergusa/Coin-Toss-Slot-Machine-Visualization.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-project-name
+    cd Coin-Toss-Slot-Machine-Visualization
     ```
 3.  **Open `index.html` directly in your favorite web browser.**
 
 ## Usage
 
-Simply open the `index.html` file in a web browser. Click the "Toss Coin" button to see the slot machine animation and the result of the coin toss.
+Simply open the `index.html` file in a web browser. Click the "Spin" button to see the slot machine animation and the result of the coin toss. Use the arrow buttons to increase or decrease the number of coins tossed.
 
 ## Contributing
 
@@ -85,4 +85,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 **David Berg** - *Project Creator and Maintainer*
 
-Project Link: [https://github.com/your-username/your-project-name](https://github.com/your-username/your-project-name)
+Project Link: [https://github.com/dbergusa/Coin-Toss-Slot-Machine-Visualization](https://github.com/dbergusa/Coin-Toss-Slot-Machine-Visualization)
