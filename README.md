@@ -59,11 +59,11 @@ This project is a static web application and requires no special installation.
     ```bash
     cd Coin-Toss-Slot-Machine-Visualization
     ```
-3.  **Open `index.html` directly in your favorite web browser.**
+3.  **Open `Slots.html` directly in your favorite web browser.**
 
 ## Usage
 
-Simply open the `index.html` file in a web browser. Click the "Spin" button to see the slot machine animation and the result of the coin toss. Use the arrow buttons to increase or decrease the number of coins tossed.
+Simply open the `Slots.html` file in a web browser. Click the "Spin" button to see the slot machine animation and the result of the coin toss. Use the arrow buttons to increase or decrease the number of coins tossed.
 
 ## Contributing
 
